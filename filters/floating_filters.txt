@@ -9915,7 +9915,6 @@ youtube.com###chips-wrapper:style(position: static !important;)
 youtube.com###contentContainer.app-drawer:style(padding-top: 120px !important; padding-bottom: 0 !important;)
 youtube.com###contentContainer.tp-yt-app-drawer[swipe-open].tp-yt-app-drawer::after, tp-yt-app-drawer:style(position: absolute !important;)
 youtube.com###header.ytd-c4-tabbed-header-renderer:style(position: absolute !important; left: 0 !important;)
-youtube.com###header:style(transform: none !important; margin-top: 0 !important;)
 youtube.com###masthead-container:style(position: absolute !important; transition: none !important; transform: none !important;)
 youtube.com###masthead-positioner, #yt-masthead-container:style(position: relative !important; top: 0 !important;)
 youtube.com###masthead-positioner-height-offset, #right-arrow, .iv-branding.annotation-type-custom.annotation, .ytp-promotooltip-wrapper
